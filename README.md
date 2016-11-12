@@ -1,3 +1,17 @@
+# ChatPolitics - calHacks 3.0
+
+Chat political views anonymously, in a safe environment.
+Using chat bots as moderators and sentiment analysis, we monitor
+conversations to keep things civilized.
+
+
+
+Below is the README.md of original repo.
+
+Credit for Channel implementation:
+https://blog.heroku.com/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
+
+
 # Django Channels Example [![Build Status](https://travis-ci.org/jacobian/channels-example.svg?branch=master)](https://travis-ci.org/jacobian/channels-example)
 
 This is an example app demonstrating how to use (and deploy) [Django Channels](http://channels.readthedocs.org/en/latest/). It's a simple real-time chat app — like a very, very light-weight Slack. There are a bunch of rooms, and everyone in the same room can chat, in real-time, with each other (using WebSockets).
